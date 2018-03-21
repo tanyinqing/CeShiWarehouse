@@ -1,5 +1,12 @@
 
 
+- 框架结构
+   - Element类
+   - TreeViewAdapter
+   - TreeViewItemClickListener
+   - ListViewActivity
+   - MainActivity
+   - TreeViewDialog
 
 **精髓代码重构**
 
