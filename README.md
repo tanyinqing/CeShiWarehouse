@@ -4,9 +4,9 @@
    - Element类
    - TreeViewAdapter
    - TreeViewItemClickListener
-   - ListViewActivity
-   - MainActivity
-   - TreeViewDialog
+   - ListViewActivity  列表显示
+   - MainActivity   构建手势探测器
+   - TreeViewDialog  自定义封装的弹出框
 
 **精髓代码重构**
 
