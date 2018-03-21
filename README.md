@@ -1,12 +1,14 @@
 
 
 - 框架结构
-   - Element类
-   - TreeViewAdapter
-   - TreeViewItemClickListener
-   - ListViewActivity  列表显示
-   - MainActivity   构建手势探测器
-   - TreeViewDialog  自定义封装的弹出框
+   - [Element](app/src/main/java/crazy/tyq/ceshiwarehouse/treeview/Element.java)
+   - [TreeViewAdapter](app/src/main/java/crazy/tyq/ceshiwarehouse/treeview/TreeViewAdapter.java)
+   - [TreeViewItemClickListener](app/src/main/java/crazy/tyq/ceshiwarehouse/treeview/TreeViewItemClickListener.java)
+   - [ListViewActivity 列表显示](app/src/main/java/crazy/tyq/ceshiwarehouse/ListViewActivity.java)
+   - [MainActivity 构建手势探测器](app/src/main/java/crazy/tyq/ceshiwarehouse/MainActivity.java)
+   - [TreeViewDialog 自定义封装的弹出框](app/src/main/java/crazy/tyq/ceshiwarehouse/TreeViewDialog.java)
+
+
 
 **精髓代码重构**
 
